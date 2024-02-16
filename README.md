@@ -14,8 +14,7 @@
 
 ### Summary 
 
-
-
+This command-line application allows users to manage departments, roles, and employees. It offers options to view existing data such as departments, roles, and employees, as well as functionality to add new departments, roles, and employees. Additionally, users can update employee roles within the database through the application.
 
 ## User Story
 
