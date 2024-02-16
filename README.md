@@ -1,4 +1,5 @@
-# You Have A Paw In Me - Project 3 
+## Employee Database Tracker
+
 
 ## Table of Contents
 - [Summary](#summary)
@@ -13,7 +14,7 @@
 
 ### Summary 
 
-Welcome to "You Have A Paw In Me" - this is a project born out of a dual passion for animals and mental health awareness. We aim to develop a website and mobile application dedicated to increasing access to therapy animals for individuals in need. By combining our love for animals with a commitment to mental health advocacy, we seek to provide a supportive platform for those seeking assistance.
+
 
 
 ## User Story
