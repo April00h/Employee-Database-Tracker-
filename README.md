@@ -5,9 +5,6 @@
 - [Summary](#summary)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Questions](#questions)
 - [License](#license)
@@ -42,15 +39,6 @@ WHEN I choose to add an employee
 THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
-
-
-
-## Installation 
-
-## Usage 
-
-## Screenshots
-<!-- Screenshot entered here -->
 
 
 ## Contributors
